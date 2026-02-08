@@ -8,6 +8,7 @@ This is a browser extension that collects links from a Zendesk ticket according 
 This extension can be installed from the [Firefox addons store](https://addons.mozilla.org/en-CA/firefox/addon/zendesk-link-collector/) or the [Chrome web store](https://chrome.google.com/webstore/detail/zendesk-link-collector/nckhapficnbbmcpapjnnegpagfcbjpja).
 
 [![Chrome Web Store Version](https://img.shields.io/chrome-web-store/v/nckhapficnbbmcpapjnnegpagfcbjpja?logo=Google%20Chrome)](https://chrome.google.com/webstore/detail/zendesk-link-collector/nckhapficnbbmcpapjnnegpagfcbjpja) [![Mozilla Add-on Version](https://img.shields.io/amo/v/zendesk-link-collector?logo=Firefox)](https://addons.mozilla.org/en-CA/firefox/addon/zendesk-link-collector/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FZendesk-Link-Collector.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FZendesk-Link-Collector?ref=badge_shield)
 
 You can also manually [install it from the source code](#chrome-manual-installation).
 
@@ -52,3 +53,7 @@ The project is structured like a typical manifest v3 browser extension, with som
 Below is a diagram of the project using [`githubocto/repo-visualizer`](https://github.com/githubocto/repo-visualizer/).
 
 ![Visualization of the codebase](./diagram.svg)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2FZendesk-Link-Collector.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2FZendesk-Link-Collector?ref=badge_large)
